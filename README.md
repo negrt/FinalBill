@@ -4,3 +4,5 @@ A desktop console application takes service/product bill data from a hard coded 
 # What I learned
 * How to read files
 * How to store data in files
+* How to use header file
+* How to create a seperate functions file
